@@ -15,6 +15,9 @@
 | Wrap-up and next steps |  5 - 5:30PM  |  Chubb and Confluent|
 
 
+Here is the slide deck for reference:
+https://docs.google.com/presentation/d/1fFlRrrTJf_x_w6heUMT_oYkq1qHMaWb2MUUfZH8UV_Y/edit?usp=sharing
+
 
 ## Cluster Setup:
 1. Does Confluent Support Helm-chart based installation?
