@@ -17,34 +17,34 @@
 
 
 ## Cluster Setup:
-1. [Does Confluent Support Helm-chart based installation?]
-2. [What is the Recommended setup from Confluent?]
-3. [If Helmcharts are not supported, What privileges does the CFK Operator would need?]
-4. [Access to storage?]
-5. [Access to Active Directory]
-6. [Access to other K8 components]
-7. [DNS Access]
-8. [Sizing review]
+1. Does Confluent Support Helm-chart based installation?
+2. What is the Recommended setup from Confluent?
+3. If Helmcharts are not supported, What privileges does the CFK Operator would need?
+4. Access to storage?
+5. Access to Active Directory
+6. Access to other K8 components
+7. DNS Access
+8. Sizing review
 
 ## Cluster Architecture:
-Overall high-level Architecture Diagram with all the CP Components
-Explain all the included Components with CP
-How do we expose CP endpoints in K8s? Right now, they use Kafka proxy from the grepplabs.
-Do we still need Kafka Proxy with CP?
+1. Overall high-level Architecture Diagram with all the CP Components
+2. Explain all the included Components with CP
+3. How do we expose CP endpoints in K8s? Right now, they use Kafka proxy from the grepplabs.
+4. Do we still need Kafka Proxy with CP?
 
 ## Security:
-What Authentication and Authorization methods are supported right now?
-Is LDAP supported?
-What is the path for OAuth? 
-When OAuth is released to CP, can we use OAuth for new consumer clients in parallel to LDAP for the existing clients? I.e..can both OAuth and LDAP run simultaneously.
-Can we enforce the topic naming convention?
-Encryption options
+1. What Authentication and Authorization methods are supported right now?
+2. Is LDAP supported?
+3. What is the path for OAuth? 
+4. When OAuth is released to CP, can we use OAuth for new consumer clients in parallel to  LDAP for the existing clients? I.e..can both OAuth and LDAP run simultaneously.
+5. Can we enforce the topic naming convention?
+6. Encryption options
 
 ## DR Setup:
-Different ways of DR setup in CP
-Active/Active 
-Active/Passive
-Expected RTO/RPO 
+1. Different ways of DR setup in CP
+2. Active/Active 
+3. Active/Passive
+4. Expected RTO/RPO 
 
 
 
