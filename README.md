@@ -17,14 +17,14 @@
 
 
 ## Cluster Setup:
-Does Confluent Support Helm-chart based installation?
-What is the Recommended setup from Confluent?
-If Helmcharts are not supported, What privileges does the CFK Operator would need? 
-Access to storage?
-Access to Active Directory 
-Access to other K8 components
-DNS Access
-Sizing review
+1. [Does Confluent Support Helm-chart based installation?]
+2. [What is the Recommended setup from Confluent?]
+3. [If Helmcharts are not supported, What privileges does the CFK Operator would need?]
+4. [Access to storage?]
+5. [Access to Active Directory]
+6. [Access to other K8 components]
+7. [DNS Access]
+8. [Sizing review]
 
 ## Cluster Architecture:
 Overall high-level Architecture Diagram with all the CP Components
